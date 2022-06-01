@@ -1,3 +1,7 @@
+bin/
+bin-int/
+x64/
+
 ## OSX artifacts
 .DS_Store
 
